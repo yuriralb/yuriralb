@@ -1,6 +1,6 @@
 # Seja muito bem vindo(a) ao meu perfil! 👋
 
-Olá! Me chamo Yuri Albuquerque e tenho 19 anos. Esse é o meu repositório principal, mas também tenho muitos projetos nos seguintes sites:
+Olá! Me chamo Yuri Albuquerque. Esse é o meu repositório principal, mas também tenho muitos projetos nos seguintes sites:
 
 
 > freeCodeCamp:
